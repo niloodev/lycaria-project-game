@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: 5a5b6730407dfea43838ff8e1d63203c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2165898666543383090
+    second: _aegisBigIceSpike_0
+  - first:
+      213: -1585538246472166610
+    second: _aegisBigIceSpike_1
+  - first:
+      213: -7932567420182279485
+    second: _aegisBigIceSpike_2
+  - first:
+      213: -330398072299579357
+    second: _aegisBigIceSpike_3
+  - first:
+      213: -5190771818277111113
+    second: _aegisBigIceSpike_4
+  - first:
+      213: -1842629627066762233
+    second: _aegisBigIceSpike_5
+  - first:
+      213: 2781737595847986530
+    second: _aegisBigIceSpike_6
+  - first:
+      213: -8930155022918092167
+    second: _aegisBigIceSpike_7
+  - first:
+      213: -3266648509445089051
+    second: _aegisBigIceSpike_8
+  - first:
+      213: 1446725539015447079
+    second: _aegisBigIceSpike_9
+  - first:
+      213: -6430459178359656410
+    second: _aegisBigIceSpike_10
+  - first:
+      213: 3454278545699890049
+    second: _aegisBigIceSpike_11
+  - first:
+      213: -7007881276299169542
+    second: _aegisBigIceSpike_12
+  - first:
+      213: 5180235201841279598
+    second: _aegisBigIceSpike_13
+  - first:
+      213: -4112364636516247945
+    second: _aegisBigIceSpike_14
+  - first:
+      213: -4760156430845243152
+    second: _aegisBigIceSpike_15
+  - first:
+      213: 9216593926891527750
+    second: _aegisBigIceSpike_16
+  - first:
+      213: -8937959533124013781
+    second: _aegisBigIceSpike_17
+  - first:
+      213: -7570717322500280109
+    second: _aegisBigIceSpike_18
+  - first:
+      213: 9116121162663766342
+    second: _aegisBigIceSpike_19
+  - first:
+      213: -3297715771881247790
+    second: _aegisBigIceSpike_20
+  - first:
+      213: 3615007282632678911
+    second: _aegisBigIceSpike_21
+  - first:
+      213: 623275761454347157
+    second: _aegisBigIceSpike_22
+  - first:
+      213: -5026955551324642722
+    second: _aegisBigIceSpike_23
+  - first:
+      213: -1798185208805212277
+    second: _aegisBigIceSpike_24
+  - first:
+      213: 3172330284578198545
+    second: _aegisBigIceSpike_25
+  - first:
+      213: 4934701263335987858
+    second: _aegisBigIceSpike_26
+  - first:
+      213: 6212462616697340068
+    second: _aegisBigIceSpike_27
+  - first:
+      213: -5505562129381477990
+    second: _aegisBigIceSpike_28
+  - first:
+      213: 8697598106709796796
+    second: _aegisBigIceSpike_29
+  - first:
+      213: 7020101028233686881
+    second: _aegisBigIceSpike_30
+  - first:
+      213: -3841469479849110535
+    second: _aegisBigIceSpike_31
+  - first:
+      213: 298111805284581927
+    second: _aegisBigIceSpike_32
+  - first:
+      213: -7521379911241951911
+    second: _aegisBigIceSpike_33
+  - first:
+      213: 7447778532878590876
+    second: _aegisBigIceSpike_34
+  - first:
+      213: 5085518998873134133
+    second: _aegisBigIceSpike_35
+  - first:
+      213: -1434845583243611656
+    second: _aegisBigIceSpike_36
+  - first:
+      213: 9087970311328363514
+    second: _aegisBigIceSpike_37
+  - first:
+      213: -141238341037644012
+    second: _aegisBigIceSpike_38
+  - first:
+      213: 2397990393687759813
+    second: _aegisBigIceSpike_39
+  - first:
+      213: -8961990440145358318
+    second: _aegisBigIceSpike_40
+  - first:
+      213: -2106050847033261827
+    second: _aegisBigIceSpike_41
+  - first:
+      213: -2072934374135918560
+    second: _aegisBigIceSpike_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2051.6667
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd703163ae21f1e0800000000000000
+      internalID: -2165898666543383090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2051.6667
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e231b398d590ff9e0800000000000000
+      internalID: -1585538246472166610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2051.6667
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cac23bb5fbd9e190800000000000000
+      internalID: -7932567420182279485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2051.6667
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3281c1a24b03a6bf0800000000000000
+      internalID: -330398072299579357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2051.6667
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bafb7d788ca6f7b0800000000000000
+      internalID: -5190771818277111113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_5
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2051.6667
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c331aed1aad66e0800000000000000
+      internalID: -1842629627066762233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_6
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2051.6667
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d4edaea97ba9620800000000000000
+      internalID: 2781737595847986530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1641.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97afbc51257b11480800000000000000
+      internalID: -8930155022918092167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1641.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85774fc788aa2d0800000000000000
+      internalID: -3266648509445089051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1641.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225080763dc31410800000000000000
+      internalID: 1446725539015447079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1641.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620f833827b62c6a0800000000000000
+      internalID: -6430459178359656410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1641.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183e1b7290010ff20800000000000000
+      internalID: 3454278545699890049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_12
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1641.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0b31acb110fbe90800000000000000
+      internalID: -7007881276299169542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_13
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1641.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6239b25874e3e740800000000000000
+      internalID: 5180235201841279598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_14
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1641.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776129db622fde6c0800000000000000
+      internalID: -4112364636516247945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1231.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f09d2052f680fdb0800000000000000
+      internalID: -4760156430845243152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1231.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e546b485be7ef70800000000000000
+      internalID: 9216593926891527750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1231.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21b353f82df5f380800000000000000
+      internalID: -8937959533124013781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1231.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07971e4b86fe690800000000000000
+      internalID: -7570717322500280109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1231.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649aefde5e7f28e70800000000000000
+      internalID: 9116121162663766342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_20
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1231.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dba0de3af82c32d0800000000000000
+      internalID: -3297715771881247790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_21
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1231.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd55cd68f51b2230800000000000000
+      internalID: 3615007282632678911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_22
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1231.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593f896b00256a800800000000000000
+      internalID: 623275761454347157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 821.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52ed9d5f8aac3ab0800000000000000
+      internalID: -5026955551324642722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 821.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbdcc64109b07e0800000000000000
+      internalID: -1798185208805212277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 821.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1145f7a0691660c20800000000000000
+      internalID: 3172330284578198545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_26
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 821.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a10d167a49b7440800000000000000
+      internalID: 4934701263335987858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 821.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a083a8b5d9173650800000000000000
+      internalID: 6212462616697340068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 821.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91bf5db9605893b0800000000000000
+      internalID: -5505562129381477990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_29
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 821.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72c8d656314b870800000000000000
+      internalID: 8697598106709796796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_30
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 821.6666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f293be0b86c6160800000000000000
+      internalID: 7020101028233686881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411.66666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3d61e6cdb50bac0800000000000000
+      internalID: -3841469479849110535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 411.66666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72286518b1b132400800000000000000
+      internalID: 298111805284581927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 411.66666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9551aa912d0be9790800000000000000
+      internalID: -7521379911241951911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 411.66666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93220a9d13db5760800000000000000
+      internalID: 7447778532878590876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 411.66666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345552d594639640800000000000000
+      internalID: 5085518998873134133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 411.66666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1f93f4b87661ce0800000000000000
+      internalID: -1434845583243611656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_37
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 411.66666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3f50819d4fe1e70800000000000000
+      internalID: 9087970311328363514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_38
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 411.66666
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41729c52a783a0ef0800000000000000
+      internalID: -141238341037644012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666565
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbde86de8f574120800000000000000
+      internalID: 2397990393687759813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1.6666565
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21270b66d2d90a380800000000000000
+      internalID: -8961990440145358318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1.6666565
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df00ca7b9edc5c2e0800000000000000
+      internalID: -2106050847033261827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _aegisBigIceSpike_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1.6666565
+        width: 216.75
+        height: 410.33334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0209eea6b257b33e0800000000000000
+      internalID: -2072934374135918560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
