@@ -26,6 +26,5 @@ public class ElementScript : MonoBehaviour
     public void Update()
     {
         if (elementId == "null") return;
-
     }
 }

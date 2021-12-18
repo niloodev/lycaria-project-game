@@ -31,7 +31,7 @@ public class CharacterCardScript : MonoBehaviour
 
         StatusImage = trans.GetChild(2).gameObject.GetComponent<Image>();
 
-        this.transform.localScale = new Vector3(1f, 1f, 1f);
+        this.transform.localScale = new Vector3(0.82609f, 0.82609f, 1f);
         StartCoroutine("FadeIn");
     }
 

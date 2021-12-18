@@ -170,8 +170,7 @@ public class iTween : MonoBehaviour
 		/// <summary>
 		/// The reflection color of the material (used in reflective shaders).
 		/// </summary>
-		_ReflectColor,
-		_TintColor
+		_ReflectColor
 	}
 				
 	#endregion
@@ -6246,8 +6245,7 @@ public class iTween : MonoBehaviour
 	}
 	
 	void Awake(){
-		thisTransform = transform;
-			
+		thisTransform = transform; 
 		RetrieveArgs();
         lastRealTime = Time.realtimeSinceStartup; // Added by PressPlay
 	}
@@ -6500,8 +6498,8 @@ public class iTween : MonoBehaviour
 			}
 		}
 		
-		id=(string)tweenArguments["id"];
-		type=(string)tweenArguments["type"];
+		id = (string)tweenArguments["id"];
+		type =(string)tweenArguments["type"];
 		/* GFX47 MOD START */
 		_name=(string)tweenArguments["name"];
 		/* GFX47 MOD END */

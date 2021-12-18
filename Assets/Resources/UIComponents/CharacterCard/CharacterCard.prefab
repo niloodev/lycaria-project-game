@@ -30,7 +30,7 @@ RectTransform:
   m_GameObject: {fileID: 5407607159358682442}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.99, y: 1, z: 1}
   m_Children:
   - {fileID: 5407607160795218428}
   m_Father: {fileID: 0}
@@ -146,7 +146,7 @@ RectTransform:
   m_GameObject: {fileID: 5407607159812708041}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.175, y: 0.175, z: 1}
+  m_LocalScale: {x: 0.09, y: 0.09, z: 1}
   m_Children: []
   m_Father: {fileID: 5407607160795218428}
   m_RootOrder: 0
@@ -154,7 +154,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -0.000011444, y: 0.000011444}
-  m_SizeDelta: {x: 674.6853, y: 172.6525}
+  m_SizeDelta: {x: 2500, y: 172.6525}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5407607159812708150
 CanvasRenderer:
@@ -186,7 +186,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 652f7165b7c30ab46af6c4aad90a639b, type: 2}
-    m_FontSize: 150
+    m_FontSize: 300
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -304,7 +304,7 @@ RectTransform:
   m_GameObject: {fileID: 5407607160796132427}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.185, y: 0.185, z: 1}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_Children: []
   m_Father: {fileID: 5407607160795218428}
   m_RootOrder: 1
@@ -312,7 +312,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -0.000011444, y: 53.6}
-  m_SizeDelta: {x: 742.4228, y: 173.1793}
+  m_SizeDelta: {x: 2300, y: 173.1793}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5407607160796132424
 CanvasRenderer:
@@ -344,7 +344,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 652f7165b7c30ab46af6c4aad90a639b, type: 2}
-    m_FontSize: 150
+    m_FontSize: 300
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -369,7 +369,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 1, g: 1, b: 1, a: 1}
-  m_EffectDistance: {x: 7.3, y: 7.3}
+  m_EffectDistance: {x: 15, y: 15}
   m_UseGraphicAlpha: 1
 --- !u!1 &6018154866341565968
 GameObject:
@@ -460,5 +460,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.18039216, g: 0.18039216, b: 0.18039216, a: 1}
-  m_EffectDistance: {x: 25, y: 25}
+  m_EffectDistance: {x: 150, y: 0}
   m_UseGraphicAlpha: 1

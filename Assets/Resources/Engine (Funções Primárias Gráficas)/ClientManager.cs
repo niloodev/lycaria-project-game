@@ -10,7 +10,7 @@ using Object = UnityEngine.Object;
 
 public class ClientManager : MonoBehaviour
 {
-    #region Variaveís de Ambiente (Estáticas)
+    #region Variaveï¿½s de Ambiente (Estï¿½ticas)
 
     static Colyseus.ColyseusClient Client;
     static public GameObject ClientManagerObj;
@@ -21,7 +21,7 @@ public class ClientManager : MonoBehaviour
 
     static public bool Loaded = false;
 
-    // Pra identificar o usuário e seu personagem de escolha.
+    // Pra identificar o usuï¿½rio e seu personagem de escolha.
     static public PlayerSchema User;
     static public Character Character;
     static public Component SkillManager;
@@ -44,7 +44,7 @@ public class ClientManager : MonoBehaviour
 
     #endregion
 
-    #region Funções de Inicialização de Entidades e Gerenciamento de Pacotes Prontos
+    #region Funï¿½ï¿½es de Inicializaï¿½ï¿½o de Entidades e Gerenciamento de Pacotes Prontos
     // Pega todas entidades de um personagem.
     static Dictionary<string, Object> GetEntitiesFromChar(string Char)
     {
@@ -118,7 +118,7 @@ public class ClientManager : MonoBehaviour
 
     class AnimInfo
     {
-        // Anim_ = animação
+        // Anim_ = animaï¿½ï¿½o
         // Popup = popup
         public string name;
         public string pType;
@@ -208,9 +208,9 @@ public class ClientManager : MonoBehaviour
     }
     #endregion
 
-    #region Entidades e Elementos (Sincronização)
+    #region Entidades e Elementos (Sincronizaï¿½ï¿½o)
 
-    // Inicializa as entidades e sincroniza a existência delas com o servidor.
+    // Inicializa as entidades e sincroniza a existï¿½ncia delas com o servidor.
     static void EntitySync()
     {
         EntityBarPrefab = Resources.Load("Entities/EntityLifeBar");
@@ -262,7 +262,7 @@ public class ClientManager : MonoBehaviour
         };
     }
 
-    // Inicializa os elementos e sincroniza a existência deles com o servidor.
+    // Inicializa os elementos e sincroniza a existï¿½ncia deles com o servidor.
     static void ElementSync()
     {
         Elements = new Dictionary<string, Object>();
@@ -309,7 +309,7 @@ public class ClientManager : MonoBehaviour
         };
     }
 
-    // Sincroniza a existência das animações espontâneas.
+    // Sincroniza a existï¿½ncia das animaï¿½ï¿½es espontï¿½neas.
     static void AnimationSync()
     {
         PopupPrefab = Resources.Load("UIComponents/GameDinamic/Popup/Popup") as GameObject;
@@ -334,7 +334,7 @@ public class ClientManager : MonoBehaviour
             if(anim.name == "Popup")
             {
                 GameObject p = Instantiate(PopupPrefab, new Vector3(anim.x, anim.y, anim.y * 2 + SafeArea.transform.position.z), Quaternion.identity) as GameObject;
-                p.transform.parent = EntitiesCanvas.transform;
+                p.transform.SetParent(EntitiesCanvas.transform);
                 PopupScript m = p.GetComponent<PopupScript>();
                 m.Start_(anim.pValue, anim.pType, anim.color_);
                 return;
@@ -345,9 +345,9 @@ public class ClientManager : MonoBehaviour
     }
     #endregion
 
-    #region Gerenciamento de Habilidades e Minigames de Precisão
+    #region Gerenciamento de Habilidades e Minigames de PrecisÃ£o
 
-    // Inicializa as operações de CheckAction (Minigames para conclusão de habilidades).
+    // Inicializa as operaï¿½ï¿½es de CheckAction (Minigames para conclusï¿½o de habilidades).
     static void CheckActionSync()
     {
         GameObject VerifyCanvas = GameObject.Find("VerifyCanvas");
@@ -382,7 +382,7 @@ public class ClientManager : MonoBehaviour
 
         GameRoom.OnMessage<CheckActionInfo>("CheckPhase", (message) =>
         {
-            // Verifica se é pra selecionar alvo.
+            // Verifica se ï¿½ pra selecionar alvo.
             if(message.targetType != -1)
             {
                 GameRoom.Send("RequestSkillsBlock", "");
@@ -428,7 +428,7 @@ public class ClientManager : MonoBehaviour
         });
     }
     
-    // Função que retorna os alvos selecionados.
+    // Funï¿½ï¿½o que retorna os alvos selecionados.
     static IPromise<string[]> GetTargets(CheckActionInfo Info)
     {
         Promise<string[]> result = new Promise<string[]>();
@@ -457,22 +457,22 @@ public class ClientManager : MonoBehaviour
 
     #endregion
 
-    #region Conexão e Inicialização
+    #region ConexÃ£o e InicializaÃ§Ã£o
 
-    // Inicializa a conexão.
+    // Inicializa a conexï¿½o.
     static async void Connect()
     {
         try
         {
-            Client = new Colyseus.ColyseusClient("ws://lycaria.herokuapp.com");
+            Client = new Colyseus.ColyseusClient("ws://localhost:21238");
             string[] info = System.Environment.GetCommandLineArgs();
 
             //RoomId = info[1]; 
             //Token = info[2];
 
-            RoomId = "yQjZbPdGx";
+            RoomId = "nB-PLZhzM";
             //Cliente A
-            Token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZWQ5YzhmYzFjYTY0MTE4MmM5MjIxNzIiLCJlbWFpbCI6ImxpdHRsZXR3b2d6QGhvdG1haWwuY29tIiwicGFzcyI6IiQyYSQxMCQyb2xNYXFCRzRwZC9VN3MxRkRNck11ZXNOZ0tBUHZxV01Bblp4UTNDakdmMzV1alFaYWlSLiIsImlhdCI6MTYzODg2OTIzNCwiZXhwIjoxNjQxNDYxMjM0fQ.nZbYbDcmu-R-6nkyvUcCpBzwHS_GNvangXdd6idpMe0";
+            Token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDBkYzZhYTU5ZDc1NjExYTA0MDkyMDUiLCJlbWFpbCI6ImtpZWwuZmVyYUBob3RtYWlsLmNvbSIsInBhc3MiOiIkMmEkMTAkZDBhNExjVU1SNUpzYjhyOTlPdlMxZWVPZlRvSktrOWoxVGRobFVUbk9kUHdyWjliZlh6MXkiLCJpYXQiOjE2Mzk0ODYzNTMsImV4cCI6MTY0MjA3ODM1M30.-PkzGgjQGvJk8TRMbOIVg_0MfoJAvh1q0jm_s6u1DsA";
             //Cliente B
             //Token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZWQ5YzhmYzFjYTY0MTE4MmM5MjIxNzIiLCJlbWFpbCI6ImxpdHRsZXR3b2d6QGhvdG1haWwuY29tIiwicGFzcyI6IiQyYSQxMCQyb2xNYXFCRzRwZC9VN3MxRkRNck11ZXNOZ0tBUHZxV01Bblp4UTNDakdmMzV1alFaYWlSLiIsImlhdCI6MTYzNjg3MzcwMywiZXhwIjoxNjM5NDY1NzAzfQ.duNJSpcOEukR4D-V-ipYxFZfzEY-0DZ9TPZECxE04cM";
 
@@ -505,7 +505,7 @@ public class ClientManager : MonoBehaviour
 
             GameRoom.OnMessage<bool>("CloseLoadScreen", async (matchIsRunning) =>
             {             
-                // Se a partida não estiver acontecendo ainda, todas as entidades farão animação de entrada.
+                // Se a partida nï¿½o estiver acontecendo ainda, todas as entidades farï¿½o animaï¿½ï¿½o de entrada.
                 if(!matchIsRunning)
                 {
                     EndAwaitScreen();
@@ -523,11 +523,7 @@ public class ClientManager : MonoBehaviour
                     EndAwaitScreen();
                 }
 
-                GameCamera.zoomIn(() => {
-                    GameCamera.goToCamera(0, -5, 1);
-                    return 0; 
-                });
-
+                GameCamera.goToCamera(0, -5, 1);
             });
 
             await GameRoom.Send("RequestIdentify", "");

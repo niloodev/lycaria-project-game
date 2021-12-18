@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Anim_IceBurstBScript : MonoBehaviour
+public class Anim_IceAutoDestruct : MonoBehaviour
 {
     ParticleSystem s;
     void Start()
@@ -10,12 +10,12 @@ public class Anim_IceBurstBScript : MonoBehaviour
         s = this.GetComponent<ParticleSystem>();
 
         s.loop = false;
-
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (s.isPlaying == false) Destroy(this.gameObject);
+        if (s.particleCount == 0) Destroy(this.gameObject);
     }
 }
