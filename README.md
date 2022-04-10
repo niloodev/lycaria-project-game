@@ -9,7 +9,7 @@
 
 <h4 align="center">An online turn-based game (this repository concerns the game) created with <a href="https://unity.com/pt" target="_blank">Unity</a>. </h4>
 <p align="center">
-  <a href="https://github.com/niloodev/lycaria-project-game/lycaria-art.pdf">ArtBook</a> •
+  <a href="https://github.com/niloodev/lycaria-project-game/blob/main/lycaria-art.pdf">ArtBook</a> •
   <a href="#proposal">Proposal</a> •
   <a href="#tools">Tools</a> •
   <a href="#author">Author</a>
